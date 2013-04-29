@@ -6,8 +6,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{184E5E35-4
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stories", "Stories", "{234E1EEB-1A08-47F0-AD41-3D1386435945}"
+	ProjectSection(SolutionItems) = preProject
+		User Story 01.md = User Story 01.md
+		User Story 02.md = User Story 02.md
+		User Story 03.md = User Story 03.md
+		User Story 04.md = User Story 04.md
+		User Story 05.md = User Story 05.md
+		User Story 06.md = User Story 06.md
+		User Story 07.md = User Story 07.md
+		User Story 08.md = User Story 08.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{234E1EEB-1A08-47F0-AD41-3D1386435945} = {184E5E35-4B2E-455C-8E72-E40ED2F4ABA2}
 	EndGlobalSection
 EndGlobal
